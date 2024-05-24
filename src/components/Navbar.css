@@ -1,0 +1,35 @@
+.navbar {
+    background:linear-gradient(rgba(0,0,0,0), #001688);
+    color: white;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar h1{
+    font-style: italic;
+    
+}
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 0px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar ul li a:hover {
+    color: #fff;
+    background-color: #002688;
+    width: 100%;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 18px;
+    gap: 90px;
+}

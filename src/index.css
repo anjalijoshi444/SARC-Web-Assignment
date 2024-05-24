@@ -1,0 +1,25 @@
+/* index.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.App {
+    text-align: center;
+}
+
+.navbar {
+    background-color: #282c34;
+    padding: 5px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    margin: 40px;
+}
+
